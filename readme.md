@@ -1,2 +1,2 @@
 ## Information:
-This is a basic text adventure game. The structure of the code is base on another game project I did using python. This version uses the browser to input data to the game and its console to use see the information.  
+This is a basic text adventure game. The structure of the code is base on another game project I did use python. This version of the game is played in a web browser. The game uses window. prompt() to insert data and alert() to show the dialogue.
